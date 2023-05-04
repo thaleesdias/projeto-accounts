@@ -1,7 +1,7 @@
 {
   "name": "5_accounts",
   "version": "1.0.0",
-  "description": "projeto simunlando um banco, com execução por via de linha de comando (terminal)",
+  "description": "projeto simulando um banco, com execução por via de linha de comando (terminal)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
