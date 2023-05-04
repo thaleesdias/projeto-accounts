@@ -1,6 +1,6 @@
 # projeto-accounts
 
-para rodar o projeto será necessário usar os pacotes inquirer e chalk
+para rodar o projeto será necessário usar os pacotes inquirer e chalk (npm i chalk inquirer)
 
 esse projeto simula um caixa eletronico com opçôes de criação de conta, deposito e saque.
 
